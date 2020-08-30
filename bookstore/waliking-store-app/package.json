@@ -1,0 +1,30 @@
+{
+  "name": "waliking-store-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "better-scroll": "^1.15.2",
+    "core-js": "^3.6.4",
+    "moment": "^2.25.3",
+    "vue": "^2.6.11",
+    "vue-layer-mobile": "^1.0.0",
+    "vue-router": "^3.1.6",
+    "vuerify": "^0.4.0",
+    "vuex": "^3.1.3",
+    "wc-messagebox": "^1.10.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-plugin-router": "~4.3.0",
+    "@vue/cli-plugin-vuex": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

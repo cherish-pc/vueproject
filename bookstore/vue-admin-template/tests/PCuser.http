@@ -1,0 +1,21 @@
+### PC用户列表查询
+POST http://39.97.253.86:8082/customer/listCustomers
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+  "pageNum":"1",
+  "pageSize":"10"
+}
+
+### 用户详情查询
+GET http://39.97.253.86:8082/customer/findCustomerById
+?id=1
+
+
+### 用户详情查询
+GET http://39.106.228.102:8082/dashboard/getCardPanel
+
+
+### 用户详情查询
+GET http://39.106.228.102:8082/dashboard/getRecentlyIncrease

@@ -1,0 +1,15 @@
+### 分类列表查询
+GET http://316z055x30.qicp.vip:47902/cate/listCateTree
+
+
+
+### 获取订单
+POST http://39.97.253.86:8082/order/listOrders
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+    "pageNum":"1",
+    "pageSize":"10"
+
+}

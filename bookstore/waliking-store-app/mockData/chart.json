@@ -1,0 +1,121 @@
+{ 
+  "data": [
+    {
+      "id": 19,
+      "isDelete": 0,
+      "createdTime": "2019-12-13T11:14:28.000+0000",
+      "createdBy": "8",
+      "updateTime": "2019-12-13T11:14:28.000+0000",
+      "updateBy": "8",
+      "pageNum": null,
+      "pageSize": null,
+      "skuCode": "0cd918a9ae0e465b9be3a1e6e818cb23",
+      "shopNum": 1,
+      "businessCode": "c5add1830fe211eaa67400ff735bba7f",
+      "orderUserId": 8,
+      "skuName": "习近平谈治国理政第一卷（2018再版）",
+      "salePrice": 64.00,
+      "images": [
+        "https://images-cn.ssl-images-amazon.com/images/I/41nIUn94P-L._SY346_.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "isDelete": 0,
+      "createdTime": "2019-12-13T11:14:28.000+0000",
+      "createdBy": "8",
+      "updateTime": "2019-12-13T11:14:28.000+0000",
+      "updateBy": "8",
+      "pageNum": null,
+      "pageSize": null,
+      "skuCode": "0cd918a9ae0e465b9be3a1e6e818cb23",
+      "shopNum": 1,
+      "businessCode": "c5add1830fe211eaa67400ff735bba7f",
+      "orderUserId": 8,
+      "skuName": "习近平谈治国理政第一卷（2018再版）",
+      "salePrice": 64.00,
+      "images": [
+        "https://images-cn.ssl-images-amazon.com/images/I/51fwStmXGJL.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "isDelete": 0,
+      "createdTime": "2019-12-13T11:14:28.000+0000",
+      "createdBy": "8",
+      "updateTime": "2019-12-13T11:14:28.000+0000",
+      "updateBy": "8",
+      "pageNum": null,
+      "pageSize": null,
+      "skuCode": "0cd918a9ae0e465b9be3a1e6e818cb23",
+      "shopNum": 1,
+      "businessCode": "c5add1830fe211eaa67400ff735bba7f",
+      "orderUserId": 8,
+      "skuName": "习近平谈治国理政第一卷（2018再版）",
+      "salePrice": 64.00,
+      "images": [
+        "https://images-cn.ssl-images-amazon.com/images/I/219IBzkPaAL.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "isDelete": 0,
+      "createdTime": "2019-12-13T11:14:28.000+0000",
+      "createdBy": "8",
+      "updateTime": "2019-12-13T11:14:28.000+0000",
+      "updateBy": "8",
+      "pageNum": null,
+      "pageSize": null,
+      "skuCode": "0cd918a9ae0e465b9be3a1e6e818cb23",
+      "shopNum": 1,
+      "businessCode": "c5add1830fe211eaa67400ff735bba7f",
+      "orderUserId": 8,
+      "skuName": "习近平谈治国理政第一卷（2018再版）",
+      "salePrice": 64.00,
+      "images": [
+        "https://images-cn.ssl-images-amazon.com/images/I/41nIUn94P-L._SY346_.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "isDelete": 0,
+      "createdTime": "2019-12-13T11:14:28.000+0000",
+      "createdBy": "8",
+      "updateTime": "2019-12-13T11:14:28.000+0000",
+      "updateBy": "8",
+      "pageNum": null,
+      "pageSize": null,
+      "skuCode": "0cd918a9ae0e465b9be3a1e6e818cb23",
+      "shopNum": 1,
+      "businessCode": "c5add1830fe211eaa67400ff735bba7f",
+      "orderUserId": 8,
+      "skuName": "习近平谈治国理政第一卷（2018再版）",
+      "salePrice": 64.00,
+      "images": [
+        "https://images-cn.ssl-images-amazon.com/images/I/51fwStmXGJL.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "isDelete": 0,
+      "createdTime": "2019-12-13T11:14:28.000+0000",
+      "createdBy": "8",
+      "updateTime": "2019-12-13T11:14:28.000+0000",
+      "updateBy": "8",
+      "pageNum": null,
+      "pageSize": null,
+      "skuCode": "0cd918a9ae0e465b9be3a1e6e818cb23",
+      "shopNum": 1,
+      "businessCode": "c5add1830fe211eaa67400ff735bba7f",
+      "orderUserId": 8,
+      "skuName": "习近平谈治国理政第一卷（2018再版）",
+      "salePrice": 64.00,
+      "images": [
+        "https://images-cn.ssl-images-amazon.com/images/I/219IBzkPaAL.jpg"
+      ]
+    }
+  ],
+  "msg": "查询成功",
+  "code": 1,
+  "success": true
+}

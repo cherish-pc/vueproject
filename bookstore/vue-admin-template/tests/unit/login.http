@@ -1,0 +1,56 @@
+### pc用户登录
+POST http://w3n1043453.zicp.vip/customer/login
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+  "loginAccount":"heborui",
+  "password":"101010",
+  "isAdmin":"1"
+}
+
+
+
+### app用户列表
+POST http://localhost:9528/dev-api/vue-admin-template/customer/listCustomers
+Accept: */*
+
+{
+    "userAccount":"admin",
+    "userName":"lidli",
+    "pageNum":"1",
+    "pageSize":"10"
+
+}
+
+### app用户详情
+POST http://localhost:9528/dev-api/vue-admin-template/customer/findCustomerById
+Accept: application/json, text/plain, */*
+
+{
+  "id":"12223344543222"
+}
+
+### 订单列表
+POST http://localhost:9528/dev-api/vue-admin-template/order/listOrders
+Accept: */*
+
+{
+
+  "pageNum":"1",
+  "pageSize":"10"
+}
+
+### 订单详情
+GET http://localhost:9528/dev-api/vue-admin-template/order/listOrderDetails
+
+### a商品
+POST http://localhost:9528/dev-api/vue-admin-template/picture/listPic
+Accept: */*
+
+{
+
+  "pageNum":"1",
+  "pageSize":"10"
+}
+

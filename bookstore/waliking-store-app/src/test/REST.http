@@ -1,0 +1,88 @@
+### 商品类别
+POST  http://101.37.202.159:8081/cate/listCateTree
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+    
+}
+
+### 商品列表
+POST http://101.37.202.159:8081/goods/listGoods
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+    "pageNum":"1",
+    "pageSize":"100"
+}
+
+### 商品列表
+POST http://101.37.202.159:8081/picture/listPic
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+    "pageNum":"1",
+    "pageSize":"100"
+}
+
+### 购物车
+GET http://101.37.202.159:8081/shoppingCar/findGoodsFromCar
+?userId=8
+
+###用户查询
+POST http://101.37.202.159:8081/customer/listCustomers
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+    "pageNum":"1",
+    "pageSize":"100"
+}
+
+###用户登录
+POST http://39.97.253.86:8082/customer/login
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+    "loginAccount":"yong",
+    "password":"123456",
+    "isAdmin":"0"
+}
+
+### 查询商家信息
+GET http://101.37.202.159:8081/goods/listBusiness
+
+
+### 商品详情
+GET http://101.37.202.159:8081/goods/findGoodsBySkuCode
+?skuCode=978153c4a68e4ebe844265cda2d74e6f
+
+### 购物车列表
+POST http://39.97.117.252:8080/shoppingcar/addShoppingCar
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+    "pageNum":"1",
+    "pageSize":"100",
+    "userId":"23"
+}
+
+### 订单
+GET http://w3n1043453.zicp.vip/order/listGoodsFromOrders
+?userId=23
+
+### 创建订单
+POST http://39.97.253.86:8082/order/addOrder
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+    "businessCode":"f654d506900111eab6b4509a4cc01629",
+    "loginAccount": "li",
+    "shopNum": "1",
+    "skuCode": "2020052215584280609"
+}

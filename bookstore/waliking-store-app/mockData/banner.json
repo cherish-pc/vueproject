@@ -1,0 +1,84 @@
+
+{
+    "data": {
+      "pageNum": 1,
+      "pageSize": 100,
+      "size": 4,
+      "startRow": 1,
+      "endRow": 4,
+      "total": 4,
+      "pages": 1,
+      "list": [
+        {
+          "id": 5,
+          "isDelete": 0,
+          "createdTime": "2020-05-11T09:14:54.000+0000",
+          "createdBy": null,
+          "updateTime": "2020-05-11T09:14:54.000+0000",
+          "updateBy": null,
+          "pageNum": null,
+          "pageSize": null,
+          "picStatus": 2,
+          "picUrl": "https://uploadfile.bizhizu.cn/2014/0112/20140112014633709.jpg",
+          "picStatusName": "禁用"
+        },
+        {
+          "id": 6,
+          "isDelete": 0,
+          "createdTime": "2019-12-12T08:57:28.000+0000",
+          "createdBy": null,
+          "updateTime": "2019-12-10T15:46:39.000+0000",
+          "updateBy": null,
+          "pageNum": null,
+          "pageSize": null,
+          "picStatus": 1,
+          "picUrl": "https://tse4-mm.cn.bing.net/th/id/OIP.VqdKU9Joo69JtyRUh3D8tQHaEK?pid=Api&rs=1",
+          "picStatusName": "启用"
+        },
+        {
+          "id": 7,
+          "isDelete": 0,
+          "createdTime": "2019-12-10T15:46:52.000+0000",
+          "createdBy": null,
+          "updateTime": "2019-12-10T15:46:52.000+0000",
+          "updateBy": null,
+          "pageNum": null,
+          "pageSize": null,
+          "picStatus": 1,
+          "picUrl": "https://tse2-mm.cn.bing.net/th/id/OIP.h1Xuux_HTYtn7QelHyMXWgHaEK?w=300&h=168&c=7&o=5&pid=1.7",
+          "picStatusName": "启用"
+        },
+        {
+          "id": 8,
+          "isDelete": 0,
+          "createdTime": "2019-12-10T15:47:03.000+0000",
+          "createdBy": null,
+          "updateTime": "2019-12-10T15:47:03.000+0000",
+          "updateBy": null,
+          "pageNum": null,
+          "pageSize": null,
+          "picStatus": 1,
+          "picUrl": "https://tse2-mm.cn.bing.net/th/id/OIP.SLR7jxaAe3eLfw-HOD5mzAHaEn?w=298&h=186&c=7&o=5&pid=1.7",
+          "picStatusName": "启用"
+        }
+      ],
+      "prePage": 0,
+      "nextPage": 0,
+      "isFirstPage": true,
+      "isLastPage": true,
+      "hasPreviousPage": false,
+      "hasNextPage": false,
+      "navigatePages": 8,
+      "navigatepageNums": [
+        1
+      ],
+      "navigateFirstPage": 1,
+      "navigateLastPage": 1,
+      "firstPage": 1,
+      "lastPage": 1
+    },
+    "msg": "查询成功",
+    "code": 1,
+    "success": true
+  }
+  

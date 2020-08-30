@@ -1,0 +1,20 @@
+
+{
+  "data": [
+    {
+      "businessCode": "a54733c90fe211eaa67400ff735bba7f",
+      "businessName": "当当网"
+    },
+    {
+      "businessCode": "c5add1830fe211eaa67400ff735bba7f",
+      "businessName": "新华书店"
+    },
+    {
+      "businessCode": "d9fae2150fe211eaa67400ff735bba7f",
+      "businessName": "先锋书店"
+    }
+  ],
+  "msg": "查询成功",
+  "code": 1,
+  "success": true
+}

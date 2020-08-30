@@ -1,0 +1,37 @@
+### a商品列表查询
+POST http://39.97.253.86:8082/goods/listGoods
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+  "pageNum":"1",
+  "pageSize":"10"
+}
+
+### a商品详情查询
+GET http://39.97.253.86:8082/goods/findGoodsBySkuCode
+?skuCode=2020052009493453387
+
+
+### 商家列表查询
+GET http://39.97.253.86:8082/goods/listBusiness
+
+###上传轮播图图片
+POST http://w3n1043453.zicp.vip/picture/addPicture
+Accept: application/json, text/javascript, */*
+Content-Type: application/json;charset=UTF-8
+
+{
+  "createdBy": "string",
+  "createdTime": "2020-08-17T05:12:20.171Z",
+  "id": 0,
+  "isDelete": 0,
+  "loginAccount": "yongge",
+  "pageNum": 0,
+  "pageSize": 0,
+  "picStatus": 0,
+  "picStatusName": "string",
+  "picUrl": "http://q9xwlfm5l.bkt.clouddn.com/fffe5ea72af276b164fb89ecdfbf3bb6.png",
+  "updatedBy": "string",
+  "updatedTime": "2020-08-17T05:12:20.172Z"
+}
